@@ -1,0 +1,14 @@
+#hero {
+  width: 30%;
+  height: 30%;
+  position: relative;
+  left: 50%;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+}
+
+.home-container h1,
+.home-container h2 {
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */

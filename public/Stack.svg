@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Stack">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Stack" clip-path="url(#clip-Stack)">
+    <rect width="512" height="512" fill="#23cefd"/>
+    <path id="Icon_metro-stack" data-name="Icon metro-stack" d="M286.125,74.745,144.348,3.856,2.571,74.745l141.777,70.889ZM144.348,27.385l94.719,47.36L144.348,122.1,49.629,74.745Zm113.379,86.327,28.4,14.2L144.348,198.8,2.571,127.911l28.4-14.2L144.348,170.4Zm0,53.166,28.4,14.2L144.348,251.966,2.571,181.078l28.4-14.2,113.379,56.689Z" transform="translate(111.429 128.144)"/>
+  </g>
+</svg>

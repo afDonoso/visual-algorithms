@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-Queue">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="Queue" clip-path="url(#clip-Queue)">
+    <rect width="512" height="512" fill="#23cefd"/>
+    <g id="Group_4" data-name="Group 4" transform="translate(94.249 60.746)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="27" height="95" transform="translate(19.751 39.254)"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="27" height="94" transform="translate(87.751 148.254)"/>
+      <rect id="Rectangle_2-2" data-name="Rectangle 2" width="27" height="94" transform="translate(128.751 148.254)"/>
+      <rect id="Rectangle_2-3" data-name="Rectangle 2" width="27" height="94" transform="translate(167.751 148.254)"/>
+      <rect id="Rectangle_2-4" data-name="Rectangle 2" width="27" height="94" transform="translate(208.751 148.254)"/>
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="27" height="95" transform="translate(276.751 256.254)"/>
+    </g>
+    <g id="Group_5" data-name="Group 5">
+      <path id="Path_7" data-name="Path 7" d="M1427.356,188.621s-6.126,62.261,38.288,51.391" transform="translate(-1301.281 15.886)" fill="none" stroke="#000" stroke-width="5"/>
+      <path id="Polygon_1" data-name="Polygon 1" d="M13,0,26,23H0Z" transform="translate(175.5 243.5) rotate(90)"/>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(398.141 256.148) rotate(90)">
+      <path id="Path_7-2" data-name="Path 7" d="M-.559,44.879S-5.84-9.6,38.574,1.274" transform="translate(0 12.328)" fill="none" stroke="#000" stroke-width="5"/>
+      <path id="Polygon_1-2" data-name="Polygon 1" d="M13,0,26,23H0Z" transform="translate(49.711) rotate(90)"/>
+    </g>
+  </g>
+</svg>
