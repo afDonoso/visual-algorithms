@@ -1,0 +1,80 @@
+.menu {
+  margin: 15px 0;
+  -ms-flex-item-align: start;
+      align-self: flex-start;
+  border-radius: 10px;
+  padding: 15px;
+  -webkit-box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+          box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  width: 30%;
+  height: 80%;
+  position: relative;
+}
+
+.input {
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.input .create {
+  width: 90%;
+}
+
+.input .push {
+  width: 25%;
+}
+
+.format-error {
+  color: red;
+  text-align: left;
+}
+
+label {
+  font-weight: bold;
+}
+
+.submit {
+  position: absolute;
+  right: 5%;
+  border: solid 1px #007bff;
+  background-color: transparent;
+  color: #007bff;
+  padding: 10px 15px;
+  font-weight: bold;
+  font-size: 0.9em;
+  border-radius: 5px;
+  -webkit-transition: background-color 0.5s, color 0.5s;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.submit:hover {
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+}
+
+.submit:active {
+  background-color: #003772;
+}
+
+.canvas {
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 70vh;
+  position: relative;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  padding: 0 10% 0 2%;
+}
+/*# sourceMappingURL=style.css.map */

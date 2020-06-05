@@ -1,4 +1,4 @@
-import Stack from '../stack/stack'
+import Stack from '../stack/stack.js'
 
 let stack
 
@@ -64,5 +64,13 @@ describe('Stack structure', () => {
     for (let i = 0; i < 3; i++) {
       expect(result[i]).toBe(expected[i])
     }
+  })
+
+  it('Correct transformation to array', () => {
+    let stack = new Stack([1, 2, 3])
+    let nodes = stack.getStackAsArray()
+    nodes.forEach((node) => {
+      expect(node.getObject()).toBe(stack.pop().getObject())
+    })
   })
 })

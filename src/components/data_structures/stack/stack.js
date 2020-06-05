@@ -48,6 +48,18 @@ class Stack {
 
     return poppedNode
   }
+
+  getStackAsArray() {
+    let actualNode = this.startingNode
+    let nodes = []
+
+    while (actualNode) {
+      nodes.push(actualNode)
+      actualNode = actualNode.getNextNode()
+    }
+
+    return nodes
+  }
 }
 
 export default Stack
